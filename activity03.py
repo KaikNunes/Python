@@ -23,5 +23,5 @@ divisao = (float(n1)/float(n2))
 print("O resultado da divisão é: ", divisao)
 
 # divisão resto
-resto = 7 % 3
+resto = (float(n1)) % (float(n2))
 print("O resultado da divisão resto é: ", resto)
