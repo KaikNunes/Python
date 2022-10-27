@@ -6,11 +6,11 @@ playstation = 2100.00
 notebook = 2350.00
 
 #declaração da quantidade pedida
-qntIphone = int(input("Quantos IPhone's você deseja comprar? "))
-qntSamsung = int(input("Quantos Samsung's você deseja comprar? "))
-qntTablet = int(input("Quantos Tablet's você deseja comprar? "))
-qntPlaystation = int(input("Quantos Playstation's 5 você deseja comprar? "))
-qntNotebook = int(input("Quantos Notebook's você deseja comprar? "))
+qntIphone = int(input("O Iphone custa R${}, quantos você deseja comprar? ".format(iphone)))
+qntSamsung = int(input("O Samsung custa R${}, quantos você deseja comprar? " .format(samsung)))
+qntTablet = int(input("O Tablet custa R${}, quantos você deseja comprar? " .format(tablet)))
+qntPlaystation = int(input("O Playstation 5 custa {}, quantos você deseja comprar? " .format(playstation)))
+qntNotebook = int(input("O Notebook custa R${}, quantos você deseja comprar? " .format(notebook)))
 
 #total comum
 total = (qntIphone*iphone) + (qntSamsung*samsung) + (qntTablet*tablet) + (qntPlaystation*playstation) + (qntNotebook*notebook)
