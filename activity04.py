@@ -20,9 +20,9 @@ print("O valor total da sua compra é: R$ {}" .format(total))
 parcela3 = round(total/3, 2)
 print("O valor parcelado em 3x é: R$ {}" .format(parcela3))
 
-#parcelado em 6x com acréscimo
+#parcelado em 6x com acréscimode 5%
 parcela6 = round((total*1.05)/6, 2)
-print("O valor parcelado em 6x é: R$ {}" .format(parcela6))
+print("O valor parcelado em 6x com acréscimo de 5% é: R$ {}" .format(parcela6))
 
 #total com desconto
 totalDesconto = round(total-(total*0.1), 2)
