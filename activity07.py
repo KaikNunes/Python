@@ -1,7 +1,7 @@
 # Recebendo informações do usuário
 numeroTabuada = int(input("Qual tabuada você quer? "))
 numeroInicial = int(input("Digite qual primeiro múltiplo: "))
-numeroFinal = int(input("Digite qual último multiplo: "))
+numeroFinal = int(input("Digite qual último múltiplo: "))
 
 # Repetição para
 for i in range (numeroInicial, numeroFinal +1):
