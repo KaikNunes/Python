@@ -31,5 +31,5 @@ while resposta == "S":
         print("Verifique os dados informados!")
 
     resposta = str(input("Deseja continuar usando a calculadora? "))
-    resposta = resposta.upper()
+    resposta = resposta.upper() 
 
