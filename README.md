@@ -16,6 +16,7 @@ Create a program that contains the variables a, b, c, d
 
   PRINT ALL VARIABLES
   
+  
 
 ## Activity 02
  
