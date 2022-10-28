@@ -17,7 +17,6 @@ Create a program that contains the variables a, b, c, d
   PRINT ALL VARIABLES
   
   
-
 ## Activity 02
  
  Create a program to receive values in string and integer variables and show the values at the end
