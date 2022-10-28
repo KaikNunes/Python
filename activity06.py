@@ -12,3 +12,5 @@ match turno:
         print("Boa Tarde!")
     case "N":
         print("Boa Noite!")
+    case_:
+        print("Valor inválido")
