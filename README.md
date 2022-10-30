@@ -25,3 +25,21 @@ Create a program that contains the variables a, b, c, d
 ## Activity 03
 
 Create a program to receive two numbers and perform all math operations. At the end it should show all the results, including remainder of division and exponential
+
+
+## Activity 04
+
+Create a program that receives 5 products in constant variables: iPhone, Samsung, Tablet, PS5, Computer.
+With respective values ​​of R$2980, R$2540, R$1950, R$2100, R$2350
+
+
+The user must inform the quantity of each product that he wants to buy.
+
++ Show the total value of all products
++ The amount of the installment divided into 3x without interest
++ The value of the installment divided into 6X with an increase of 5%
++ And the value with 10% discount for cash payment
+
+DON'T USE CONDITIONAL STRUCTURE!
+
+## Activity 05
