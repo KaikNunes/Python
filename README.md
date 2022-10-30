@@ -20,3 +20,8 @@ Create a program that contains the variables a, b, c, d
 ## Activity 02
  
  Create a program to receive values in string and integer variables and show the values at the end
+
+
+## Activity 03
+
+Create a program to receive two numbers and perform all math operations. At the end it should show all the results, including remainder of division and exponential
