@@ -42,7 +42,7 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
   
   #### Resulatdo:
        
-     ![image](https://user-images.githubusercontent.com/113046021/198914612-62555ee0-c36d-4168-9824-4110f783a7c7.png)
+   ![image](https://user-images.githubusercontent.com/113046021/198914612-62555ee0-c36d-4168-9824-4110f783a7c7.png)
 
 
 ## Atividade 04
