@@ -2,44 +2,61 @@
 ![python icon](https://user-images.githubusercontent.com/113046021/198093589-35c1f817-d05d-4707-a9df-f510a37dd365.png)
 > Status: Developing... 🚧
 
-### Esse repositorio tem a função de agrupar códigos solicitados em meu curso técnico
+
+### Esse repositório tem a função de agrupar códigos solicitados em meu curso técnico
 
 
 ## Atividade 01
 
-Crie um programa que contenha as variáveis a, b, c, d
+  Crie um programa que contenha as variáveis a, b, c, d
 
-+ Atribua a variável 'a' um númro "inteiro"
-+ Atribua a variável 'b' um número "real"
-+ Atribua a variável 'c' um "caractere"
-+ Atribua a variável 'd' um "booleano"
+  + Atribua a variável 'a' um número "inteiro"
+  + Atribua a variável 'b' um número "real"
+  + Atribua a variável 'c' um "caractere"
+  + Atribua a variável 'd' um "booleano"
 
   IMPRIMA TODAS AS VARIÁVEIS
   
   
-## Activity 02
+## Atividade 02
  
- Create a program to receive values in string and integer variables and show the values at the end
+ Crie um programa para receber valores em variáveis de string einteiro e mostre os valores ao final.
 
 
-## Activity 03
+## Atividade 03
 
-Create a program to receive two numbers and perform all math operations. At the end it should show all the results, including remainder of division and exponential
+  Crie um programa para receber dois números e realizar todas as operações matemáticas. Ao final mostre todos os resultados.
+  
+  Inclua resto da divisão e exponencial.
 
 
 ## Activity 04
 
-Create a program that receives 5 products in constant variables: iPhone, Samsung, Tablet, PS5, Computer.
-With respective values ​​of R$2980, R$2540, R$1950, R$2100, R$2350
+  Crie um programa receba 5 produtos em variáveis constantes, iPhone, Samsung, Tablet, PS5, notebook.
+
+  Com valores respectivos de R$2980, R$2540, R$1950, R$2100, R$2350.
+
+  O usuário deverá informar a quantidade de cada produto que ele deseja comprar
+
+  + Ao final da compra mostre o valor total de todos os produtos
+  + O valor da parcela dividido em 3X sem juros
+  + O valor da parcela dividido em 6X com acréscimo de 5%
+  + O valor com 10% de desconto para pagamento à vista
+
+  NÃO USE ESTRUTURAS CONDICIONAIS
 
 
-The user must inform the quantity of each product that he wants to buy.
+## Atividade 05
 
-+ Show the total value of all products
-+ The amount of the installment divided into 3x without interest
-+ The value of the installment divided into 6X with an increase of 5%
-+ And the value with 10% discount for cash payment
+  Crie um programa que receba um número digitado pelo usuário, o número será comparado se é maior, menor ou igual a 10
 
-DON'T USE CONDITIONAL STRUCTURE!
+## Atividade 06
 
-## Activity 05
+  Crie um programa que:
+  + Pergunte em que turno o usuário estuda
+  + Peça para digitar M-matutino, V-Vespertino ou N-Noturno
+  + Mostre a mensagem "Bom Dia!", "Boa Tarde!", "Boa Noite!" ou "Valor Inválido!", conforme o caso
+
+## Atividade 07
+
+  
