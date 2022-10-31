@@ -3,7 +3,7 @@
 > Status: Developing... 🚧
 
 
-### Olá, esses são meus primeiros códigos em Python!
+### Olá! Esses são meus primeiros códigos em Python 😃
 
 Repositório criado para agrupar códigos solicitados em meu curso técnico.
 
