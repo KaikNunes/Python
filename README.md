@@ -27,7 +27,7 @@
  
  #### Resultado:
  
-   ![image](https://user-images.githubusercontent.com/113046021/198914342-4e232764-dc0c-4c22-8b06-d096ca5b9f2e.png)
+   ![image](https://user-images.githubusercontent.com/113046021/198914790-3e67f04b-6070-43f4-8830-c55be6d791f3.png)
 
 
 ## Atividade 03
@@ -38,7 +38,7 @@
   
   INCLUA RESTO DE DIVISÃO E EXPONENCIAL
   
-  #### Resulatdo
+  #### Resulatdo:
        
    ![image](https://user-images.githubusercontent.com/113046021/198914612-62555ee0-c36d-4168-9824-4110f783a7c7.png)
 
