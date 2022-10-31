@@ -3,7 +3,9 @@
 > Status: Developing... 🚧
 
 
-### Olá! Esse repositório tem a função de agrupar códigos solicitados em meu curso técnico
+### Olá, esses são meus primeiros códigos em Python!
+
+Repositório criado para agrupar códigos solicitados em meu curso técnico.
 
 
 ## Atividade 01
