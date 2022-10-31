@@ -17,10 +17,17 @@
 
   IMPRIMA TODAS AS VARIÁVEIS
   
+  #### Resultado:
+  
+       ![image](https://user-images.githubusercontent.com/113046021/198913822-2470d3ca-ccf2-41ec-bd47-75d7ca241d46.png)
   
 ## Atividade 02
  
- Crie um programa para receber valores em variáveis de string einteiro e mostre os valores ao final.
+ Crie um programa para receber valores em variáveis string e inteiro e mostre os valores ao final.
+ 
+ #### Resultado:
+ 
+      ![image](https://user-images.githubusercontent.com/113046021/198914342-4e232764-dc0c-4c22-8b06-d096ca5b9f2e.png)
 
 
 ## Atividade 03
@@ -30,6 +37,10 @@
   Ao final mostre todos os resultados.
   
   INCLUA RESTO DE DIVISÃO E EXPONENCIAL
+  
+  #### Resulatdo
+       
+       ![image](https://user-images.githubusercontent.com/113046021/198914612-62555ee0-c36d-4168-9824-4110f783a7c7.png)
 
 
 ## Atividade 04
