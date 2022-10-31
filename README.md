@@ -32,7 +32,7 @@
   INCLUA RESTO DE DIVISÃO E EXPONENCIAL
 
 
-## Activity 04
+## Atividade 04
 
   Crie um programa receba 5 produtos em variáveis constantes, iPhone, Samsung, Tablet, PS5, notebook.
 
@@ -80,6 +80,27 @@
    
    USE A RAOETIÇÃO "ENQUANTO"
    
-# Atividade 09
 
+## Atividade 09
+   
+   Crie um programa para calcular as notas obtidas por um aluno do ensino médio, onde:
+   
+   + Deverá mostrar mensagem para ser digitado a nota do 1º, 2º, 3º e 4º bimestre.
+   + Após isso deverá mostrar na tela se o aluno foi aprovado, se está em recuperação ou foi reprovado sem chance de recuperação.
   
+  + Os parâmetros utilizados pela escola são: Mínimo de 60 pontos para a aprovação e mínimo de 40 pontos para fazer a recuperação.
+   
+   
+## Atividade 10
+   
+   Adicione ao cógido da Atividade 09 um novo parâmetro: Atividades complementares, onde, novamente o usuário deverá informar as notas obtidas nas provas dos 4            bimestres e também as notas do trabalho.
+   
+   Informe a média por bimestre desse aluno e, mais uma vez, se ele foi ou não aprovado.
+   
+## Atividade 11
+    
+   Crie um programa em que o usuário deve digitar números inteiros para uma matriz de 5 linhas e 5 colunas.
+   
+   Após a digitação dos números, o usuário deve digitar um número aleatório e verificar se ele se encontra na matriz.
+   
+   Ao final, os índices da linha e da coluna devem ser impressos. Se for encontrado, traga uma mensagem de confirmação, caso contrário, uma mensagem invalidação          deve aparecer na tela
