@@ -25,9 +25,11 @@
 
 ## Atividade 03
 
-  Crie um programa para receber dois números e realizar todas as operações matemáticas. Ao final mostre todos os resultados.
+  Crie um programa para receber dois números e realizar todas as operações matemáticas.
   
-  Inclua resto da divisão e exponencial.
+  Ao final mostre todos os resultados.
+  
+  INCLUA RESTO DE DIVISÃO E EXPONENCIAL
 
 
 ## Activity 04
@@ -50,6 +52,7 @@
 
   Crie um programa que receba um número digitado pelo usuário, o número será comparado se é maior, menor ou igual a 10
 
+
 ## Atividade 06
 
   Crie um programa que:
@@ -57,6 +60,26 @@
   + Peça para digitar M-matutino, V-Vespertino ou N-Noturno
   + Mostre a mensagem "Bom Dia!", "Boa Tarde!", "Boa Noite!" ou "Valor Inválido!", conforme o caso
 
+
 ## Atividade 07
+
+  Crie um programa para realizar as operações de uma tabuada de multiplicação.
+  
+  Será solicitado ao usuário digitar qual será a tabuada escolhida e qual intervalo do inicio e fim ddo multiplicando.
+  
+  Ao final exiba na tela o produto.
+  
+  USE REPETIÇÃO "PARA"
+  
+  
+## Atividade 08
+
+   Crie um programa de calculadora que realiza as operações de soma, multiplicação, divisão e subtração.
+   
+   Ao final será perguntado ao usuário se deseja continuar com o uso da calculadora, assim enquanto ele digitar (“S” – Sim) o programa irá reiniciar a calculadora.
+   
+   USE A RAOETIÇÃO "ENQUANTO"
+   
+# Atividade 09
 
   
