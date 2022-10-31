@@ -3,7 +3,7 @@
 > Status: Developing... 🚧
 
 
-### Esse repositório tem a função de agrupar códigos solicitados em meu curso técnico
+### Olá! Esse repositório tem a função de agrupar códigos solicitados em meu curso técnico
 
 
 ## Atividade 01
