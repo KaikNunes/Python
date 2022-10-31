@@ -42,7 +42,7 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
   
   #### Resulatdo:
        
-   ![image](https://user-images.githubusercontent.com/113046021/198914612-62555ee0-c36d-4168-9824-4110f783a7c7.png)
+     ![image](https://user-images.githubusercontent.com/113046021/198914612-62555ee0-c36d-4168-9824-4110f783a7c7.png)
 
 
 ## Atividade 04
@@ -59,12 +59,19 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
   + O valor com 10% de desconto para pagamento à vista
 
   NÃO USE ESTRUTURAS CONDICIONAIS
+  
+  #### Resultado:
+  ![image](https://user-images.githubusercontent.com/113046021/198915333-8284df03-b967-48c8-b080-8ae6a2b17d81.png)
 
 
 ## Atividade 05
 
   Crie um programa que receba um número digitado pelo usuário, o número será comparado se é maior, menor ou igual a 10
 
+  #### Resultado:
+  ![image](https://user-images.githubusercontent.com/113046021/198915496-394daada-a222-4ce8-b23e-32685ad62c45.png)
+  ![image](https://user-images.githubusercontent.com/113046021/198915545-621e1a0e-cb84-4bb4-a317-0d6656c16a01.png)
+  ![image](https://user-images.githubusercontent.com/113046021/198915691-5a57b04f-91f2-4c09-bcae-552a4781e52d.png)
 
 ## Atividade 06
 
@@ -73,6 +80,10 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
   + Peça para digitar M-matutino, V-Vespertino ou N-Noturno
   + Mostre a mensagem "Bom Dia!", "Boa Tarde!", "Boa Noite!" ou "Valor Inválido!", conforme o caso
 
+#### Resultado:
+  ![image](https://user-images.githubusercontent.com/113046021/198915991-ab4edaf9-8a4b-4292-9746-f6b7ad5fe200.png)
+  ![image](https://user-images.githubusercontent.com/113046021/198916017-1a082860-cef0-496f-bb08-129b373e8e5c.png)
+  ![image](https://user-images.githubusercontent.com/113046021/198916059-2df77147-0531-41f4-91a6-2889ed6e0570.png)
 
 ## Atividade 07
 
