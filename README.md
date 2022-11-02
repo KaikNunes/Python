@@ -146,3 +146,49 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
    
    ####  Resultado:
    ![image](https://user-images.githubusercontent.com/113046021/199528136-43c4491a-2620-45f6-b917-5bd13e7d4407.png)
+
+## Atividade 12
+
+   Faça um programa que leia em um vetor de 10 caracteres que diga quantas consoantes foram lidas e as mostre na tela. 
+
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199529349-bc1ca911-37bf-4f46-887f-df421246f17a.png)
+   ![image](https://user-images.githubusercontent.com/113046021/199529393-86666f74-ce83-4ba6-8e4e-3432d02ce346.png)
+
+   
+## Atividade 13
+   
+   Crie um programa que leia um conjunto de nomes de 20 estudantes inscritos na prova do ENEM.
+   Realize uma ordenação crescente usando uma função para facilitar a localização do nome na lista que será fixada no quadro de avisos da escola.
+   
+   USE "FUNÇÃO"
+   
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199531151-110aadd0-2fa9-449f-9c27-5a7c52bb37ed.png)
+   ![image](https://user-images.githubusercontent.com/113046021/199531072-f27b9734-15bc-4841-8db5-4401fe68c3ef.png)
+
+
+## Atividade 14
+    
+   Crie um programa com uma função para multiplicar dois números e o algoritmo mostrar o resultado.
+   
+   USE "FUNÇÃO"
+   
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199531667-59af39df-4c12-4c16-90fd-3e57056a10f8.png)
+
+
+## Atividade 15
+   
+   Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
+   Calcule e mostre o total do seu salário no referido mês.
+   Desconte os seguintes impostos do salário:
+   + Imposto de Renda: 11%
+   + INSS: 8%
+   + Sindicato: 5%
+   
+   Mostre todos os descontos, o salário bruto e líquido.
+   
+   #### Resultado:
+   
+ 
