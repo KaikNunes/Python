@@ -95,6 +95,8 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
   
   USE REPETIÇÃO "PARA"
   
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199508223-5869028c-2619-4aec-b2a9-6b439105fe29.png)
   
 ## Atividade 08
 
@@ -102,8 +104,13 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
    
    Ao final será perguntado ao usuário se deseja continuar com o uso da calculadora, assim enquanto ele digitar (“S” – Sim) o programa irá reiniciar a calculadora.
    
-   USE A RAOETIÇÃO "ENQUANTO"
+   USE A REPETIÇÃO "ENQUANTO"
    
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199509393-63f88a23-57a6-42f0-a53d-a2d775511e0c.png)
+   ![image](https://user-images.githubusercontent.com/113046021/199509456-38d49e22-5c9e-4811-a1eb-61d9826d8f2e.png)
+   ![image](https://user-images.githubusercontent.com/113046021/199509513-7e085205-6331-4589-9ad3-aeb66961313a.png)
+   ![image](https://user-images.githubusercontent.com/113046021/199510173-8d89db33-4cd7-4910-a5ae-bf57ca460537.png)
 
 ## Atividade 09
    
@@ -114,12 +121,20 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
   
   + Os parâmetros utilizados pela escola são: Mínimo de 60 pontos para a aprovação e mínimo de 40 pontos para fazer a recuperação.
    
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199512468-3887ee33-13bb-419b-b1b4-58676fcc6b89.png)
    
 ## Atividade 10
    
    Adicione ao cógido da Atividade 09 um novo parâmetro: Atividades complementares, onde, novamente o usuário deverá informar as notas obtidas nas provas dos 4            bimestres e também as notas do trabalho.
    
    Informe a média por bimestre desse aluno e, mais uma vez, se ele foi ou não aprovado.
+   
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199519177-d87aeec5-1692-455d-aba6-8906270c3ed3.png)
+   
+   ![image](https://user-images.githubusercontent.com/113046021/199519255-e121c5df-a731-4738-965d-22f5bbbc75a2.png)
+
    
 ## Atividade 11
     
