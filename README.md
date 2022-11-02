@@ -190,5 +190,13 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
    Mostre todos os descontos, o salário bruto e líquido.
    
    #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199564454-e1e6b014-10d5-4d18-868a-88c977ddf5a0.png)
+
+
+## Atividade 16
    
- 
+   Numa fazenda em um local reservado para criação coloca-se um casal de coelhos. Supondo que em cada mês, a partir do segundo mês de vida, cada casal dá origem a um      novo casal de coelhos, ao fim de um ano, quantos casais de coelhos estão no pátio?
+   Escreva um programa para calcular a quantidade de coelhos em um ano.
+   
+   #### Resultado:
+   ![image](https://user-images.githubusercontent.com/113046021/199565742-57d1e967-6c7c-4ebd-aa59-52df595d5d07.png)
