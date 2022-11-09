@@ -212,7 +212,7 @@ Repositório criado para agrupar códigos solicitados em meu curso técnico.
    ![image](https://user-images.githubusercontent.com/113046021/199845489-ab53892e-70f5-49e0-b8ca-5b94a9623c82.png)
 
 
-## Atividade 17
+##  Atividade 17
    
    Numa fazenda em um local reservado para criação coloca-se um casal de coelhos. Supondo que em cada mês, a partir do segundo mês de vida, cada casal dá origem a um      novo casal de coelhos, ao fim de um ano, quantos casais de coelhos estão no pátio?
   
